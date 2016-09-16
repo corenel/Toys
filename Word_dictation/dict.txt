@@ -1,0 +1,143 @@
+A posterior estimation 后验估计
+A prior estimation 先验估计
+actuator 执行器
+adaptive control system 自适应控制系统
+analog-digital convertor 模数转换器
+anti-reset windup 防积分饱和
+artificial intelligence 人工智能
+batch process 批处理
+cascade system 串级系统
+characteristic equation 特征方程
+closed loop control 闭环控制
+coefficient 系数
+compensation 补偿
+continuous control system 连续控制系统
+control engineering 控制工程（学） 
+control configuration 控制组态
+control strategy 控制策略
+controlled plant 被控对象
+coupled system 耦合系统
+corner frequency 转折频率
+cross-over frequency 穿越频率
+cut-off frequency 截止频率
+Cybernetics 控制论
+dead band/zone 死区
+dead time 滞后时间
+derivative control 微分控制
+deviation 微分
+diaphragm actuator 薄膜调节阀
+dial 调节盘
+digital system 数字系统
+direct digital control, DDC 直接数字控制
+discrete system 离散系统
+distributed control system, DCS 分布式控制系统
+disturbance 扰动
+drift 漂移
+dynamic characteristic 动态特性
+error signal 误差信号
+export system 专家系统
+explosion-proof type 防爆类型
+failure diagonals 故障诊断
+feasibility study 可行性研究
+feedback control 反馈控制
+feedforward control 前馈控制
+follow-up control 随动控制
+fuzzy control 模糊控制
+field bus 现场总线
+flow transducer 流量传感器
+flow transmitter 流量变送器
+flowmeter 流量计
+gain 增益
+gauge 仪表
+hybrid 混合的
+hydraulic actuator 液动执行器
+identification 识别
+impulse function 脉冲函数
+inertial element 惯性环节
+inference engine 推理机
+insulator 绝缘器
+integral control 积分控制
+internal model principle 内模原理
+interface 接口
+intrinsic safety type 本质安全类型
+isolator 隔离器
+junction box 接线盒
+knowledge engineering 知识工程
+ladder diagram 梯形图
+Laplace transform 拉普拉斯变换
+least square estimation 最小二乘估计
+limit switch 限位开关
+malfunction 失去功能
+manual control 手动控制
+maximum overshoot 最大超调量
+mean time between failure 平均故障间隔时间
+minimum variance estimation 最小方差估计
+multi-input multi-output output control system 多入多出控制系统
+multi-loop control 多回路控制
+multimeter 多用表
+nonlinear control system 非线性控制系统
+offset 偏移
+open loop control 开环控制
+optimal control 最优控制
+orifice-plate flowmeter 孔板流量计
+overshoot 超调量
+panel 操作面板
+pattern recognition 模式识别
+phase lag 相位滞后
+phase lead 相位超前
+phase plane 相平面
+plantwide 厂域，工厂范围
+pole assignment 极点配置
+position action  位式作用
+Proportional/ Integral/ Derivative action PID控制
+power supply 电源
+pneumatic actuator 气动执行器
+hydraulic actuator 液动执行器
+electronic actuator 电动执行器
+polymerization 聚合过程
+predictive control 预测控制
+pressure gauge 压力表
+pressure transducer 压力传感器
+Programmable Logic Controller 可编程逻辑控制器
+proportional control 比例控制
+ramp function 斜坡函数
+ratio controller bi比值控制器
+regulating unit 调节单元
+relay 继电器
+contactor 接触器
+breaker 断路器
+Resistance Temperature Detector  热电阻
+reverse action 反作用
+direct action 正作用
+robust control 鲁棒控制
+root locus 根轨迹
+sampling holder 采样保持器
+saturation characteristic 饱和特性
+sensor transducer 传感器
+sensitivity 灵敏度
+self-tuning regulator 自整定调节器
+servo system 伺服系统
+set-point 设定值
+single input single output control system 单入单出控制系统
+single loop control 单回路控制
+solenoid valve 电磁阀
+span, scale 量程
+stability margin 稳定裕度
+state transition matrix 状态转移矩阵
+state-space model 状态空间模型
+static system 静态系统
+steady-state 稳态
+step-function 阶跃函数
+stochastic control theory 随机控制理论
+supervisory computer control system 监督计算机控制/计算机监控系统
+system identification 系统辨识
+system planning 系统规划
+systematology 系统学
+systems engineering 系统工程
+thermocouple, thermowell 热电偶
+threshold 阈值
+time delay system 时滞系统
+time-series model 时间序列模型
+time-invariant system, time-varying system 时不变系统，时变系统
+transient process, transient response 瞬态过程，瞬态响应
+undamped 无阻尼
