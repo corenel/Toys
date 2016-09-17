@@ -20,6 +20,7 @@ def dictate(dictionary):
 		say(english_only)
 		sleep(5)
 		print(word)
+		sleep(1)
 
 if __name__ == "__main__":
 	dictionary = read_dict("dict.txt")

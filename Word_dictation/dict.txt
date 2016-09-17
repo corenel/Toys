@@ -35,7 +35,7 @@ disturbance 扰动
 drift 漂移
 dynamic characteristic 动态特性
 error signal 误差信号
-export system 专家系统
+expert system 专家系统
 explosion-proof type 防爆类型
 failure diagonals 故障诊断
 feasibility study 可行性研究
@@ -72,7 +72,7 @@ manual control 手动控制
 maximum overshoot 最大超调量
 mean time between failure 平均故障间隔时间
 minimum variance estimation 最小方差估计
-multi-input multi-output output control system 多入多出控制系统
+multi-input multi-output control system 多入多出控制系统
 multi-loop control 多回路控制
 multimeter 多用表
 nonlinear control system 非线性控制系统
@@ -98,7 +98,7 @@ polymerization 聚合过程
 predictive control 预测控制
 pressure gauge 压力表
 pressure transducer 压力传感器
-Programmable Logic Controller 可编程逻辑控制器
+Programmable Logic Controller, PLC 可编程逻辑控制器
 proportional control 比例控制
 ramp function 斜坡函数
 ratio controller bi比值控制器
@@ -106,7 +106,7 @@ regulating unit 调节单元
 relay 继电器
 contactor 接触器
 breaker 断路器
-Resistance Temperature Detector  热电阻
+Resistance Temperature Detector, RTD  热电阻
 reverse action 反作用
 direct action 正作用
 robust control 鲁棒控制
@@ -138,6 +138,8 @@ thermocouple, thermowell 热电偶
 threshold 阈值
 time delay system 时滞系统
 time-series model 时间序列模型
-time-invariant system, time-varying system 时不变系统，时变系统
-transient process, transient response 瞬态过程，瞬态响应
+time-invariant system 时不变系统
+time-varying system 时变系统
+transient process 瞬态过程
+transient response 瞬态响应
 undamped 无阻尼
