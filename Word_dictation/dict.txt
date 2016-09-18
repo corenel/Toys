@@ -21,7 +21,7 @@ corner frequency 转折频率
 cross-over frequency 穿越频率
 cut-off frequency 截止频率
 Cybernetics 控制论
-dead band/zone 死区
+dead band / dead zone 死区
 dead time 滞后时间
 derivative control 微分控制
 deviation 微分
@@ -143,3 +143,53 @@ time-varying system 时变系统
 transient process 瞬态过程
 transient response 瞬态响应
 undamped 无阻尼
+torque 扭矩
+Self-Regulating Processes 自衡过程
+Non-Self-Regulating Processes 非自衡过程
+Cascade Control System 串级控制系统
+Artificial Intelligence 人工智能
+Override Control 超驰控制
+Constraint Control 约束控制
+Selective Control 选择控制
+Controlled Variable, CV 被控变量/受控变量
+Setpoint - SP, or Setpoint Value - SV 设定值/给定值
+Manipulated Variable, MV 操纵变量/操作变量
+Disturbance Variable, DV 扰动/扰动变量
+Measurement 测量/测量信号
+Regulatory Control 调节控制, 定值控制
+Servo Control 跟踪控制, 伺服控制
+Switch Control 开关量控制
+Continuous Control 连续量控制
+Continuous-Time Control 连续时间控制
+Discrete-Time Control 离散时间控制
+Single-loop PID 单回路PID控制
+Cascade Control 串级控制
+Ratio Control 比值控制
+Override or Selective Control 超驰或选择控制
+Dead-time Compensation 纯滞后补偿
+Decoupling 解耦
+APC 先进控制
+Predictive Control 预测控制
+Adaptive Control 自适应控制
+sensor 敏感元件
+parameter to be measured 待测参数
+direct measurement 直接测量
+indirect measurement 间接测量
+FDDI 光纤分布式数字接口
+ATM 异步传输模式
+Repeater 中继器
+Bridge 网桥
+Router 路由器
+Gateway 网关
+Network Interface 网络接口
+Address Resolution Protocol, ARP 地址解答协议
+Reverse Address Resolution Protocol, RARP 反向地址解答协议
+Internet Protocol, IP 网际协议
+Internet Control Message Protocol, ICMP 网际报文控制协议
+Transmission Control Protocol, TCP
+User Datagram Protocol, UDP 用户数据报协议
+Telnet 远程登录
+File Transfer Protocol, FTP 文件传输协议
+Trivial File Transfer Protocol, TFTP 简单文件传输协议
+Simple Mail Transfer Protocol, SMTP 简单邮件传输协议
+Domain Name System,DNS 域名系统
