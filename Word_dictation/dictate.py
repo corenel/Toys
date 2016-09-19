@@ -16,7 +16,7 @@ def read_dict(file):
 def dictate(dictionary):
 	random_list = sample(dictionary, 10)
 	for word in random_list:
-		english_only = ''.join(x for x in word if ord(x) < 256)
+		english_only = ''.join(x for x in word if ord(x) < 122)
 		say(english_only)
 		sleep(5)
 		print(word)
